@@ -18,9 +18,6 @@ A Computer Science Student at University Of KwaZulu Natal
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-###Projects
-Coming Soon 🤔
-
 
 <!--
 **KwazikwakheDev/KwazikwakheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
