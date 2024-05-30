@@ -1,12 +1,12 @@
-# Hi 👋, I'm Kwazikwakhe Mjuleka
+## Hi 👋, I'm Kwazikwakhe Mjuleka.
 
-A Computer Science Student at University Of KwaZulu Natal
+A Computer Science Student at University Of KwaZulu Natal.
 
 ## Education
-- 🎓 Computer Science Student at University Of KwaZulu Natal
+- 🎓 Computer Science Student at University Of KwaZulu Natal.
 - 📚 Currently learning: Data Structures and Algorithms, and Web Development
 - 🤔 I’m looking for help with APIs
-- 📫 How to reach me:  [thulakwazikwakhe@gmail.com](mailto:thulakwazikwakhe@gmail.com)
+- 📧 How to reach me:  [thulakwazikwakhe@gmail.com](mailto:thulakwazikwakhe@gmail.com)
 + ⚡ Fun fact: I  Love Football
 
 
@@ -18,8 +18,12 @@ A Computer Science Student at University Of KwaZulu Natal
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+## GitHub Stats
+![KwazikwakheDev GitHub stats](https://github-readme-stats.vercel.app/api?username=KwazikwakheDev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwazikwakheDev&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KwazikwakheDev&theme=radical)
+
+
 
 <!--
 **KwazikwakheDev/KwazikwakheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
